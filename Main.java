@@ -1,7 +1,4 @@
-//030121090 Mukhsinakon Otkhonova
-//030121049 Rümeysa Besli
-//030121034 Nursena Aydın
-//030120120 Malike Makhmut
+
 import models.Kullanici;
 import views.Rezarvasyon;
 import views.SeferAra;
